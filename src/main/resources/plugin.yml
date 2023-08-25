@@ -1,0 +1,35 @@
+main: io.github.Leonardo0013YT.UltraMinions.Main
+author: Leonardo0013YT
+version: 5.7.1
+name: UltraMinions
+load: POSTWORLD
+softdepend:
+  - UltimateClaims
+  - PlaceholderAPI
+  - MVdWPlaceholderAPI
+  - SuperiorSkyblock2
+  - FabledSkyBlock
+  - Vault
+  - PlayerPoints
+  - AcidIsland
+  - ASkyBlock
+  - BentoBox
+  - IridiumSkyblock
+  - PlotSquared
+  - LuckPerms
+  - HolographicDisplays
+  - Holograms
+  - Towny
+  - ProtectionStones
+  - PreciousStones
+  - GriefPrevention
+  - RedProtect
+  - Essentials
+  - CMI
+  - ShopGUIPlus
+  - Residence
+  - Lands
+  - Factions
+commands:
+  msetup:
+    aliases: [ minions ]
